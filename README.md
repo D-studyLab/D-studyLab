@@ -19,7 +19,4 @@
 
 ## Writing
 
-<!-- Zenn開設後にコメントを外してURLを確定する:
-- Zenn: https://zenn.dev/（ユーザー名）
--->
-- Zenn: 準備中（技術記事を公開予定）
+- [Zenn](https://zenn.dev/dstudylab) — AI活用の開発運用・3D形状処理・教育×AIについて書いています
